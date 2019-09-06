@@ -1,7 +1,7 @@
 # MLNLP
 NLP Project
 
-For the slicing of the MSD database please go to the slicing folder. The following commands are to be run on Terminal or similar using Mark Greene's implementation of the DTM with NMF.
+For the slicing of the MSD database please go to the slicing folder. The following commands are to be run on Terminal or similar using Mark Greene's implementation of the DTM with NMF. For all other analysis mentioned in the report please refer to the Jupiter notebook.
 
 
 
